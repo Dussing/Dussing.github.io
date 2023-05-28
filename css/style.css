@@ -1,0 +1,74 @@
+#footer {
+    background: transparent;
+}
+
+#footer-wrap{
+    color: rgb(0, 0, 0);
+}
+
+.copyright{
+    color:aliceblue;
+    font:bold;   
+}
+
+#site-title{
+    font:bold;
+}
+
+#aside-content>.card-widget.card-info{
+    /*换成自己图片的地址*/
+    background-color:transparent;
+    /*background-image: url('/imges/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-size: 100%*/
+}
+
+#aside-content>.card-widget.card-announcement{
+    /*换成自己图片的地址*/
+    background-image: url('/imges/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-size: 100%
+}
+
+#aside-content>.sticky_layout>.card-widget.card-recent-post{
+    /*换成自己图片的地址*/
+    color: black;
+    background-image: url('/imges/fx.jpg');
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-size: 100%
+}
+
+#aside-content>.sticky_layout>.card-widget.card-archives{
+    /*换成自己图片的地址*/
+    background-image: url('/imges/gd.jpg');
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-size: 100%
+}
+
+#aside-content .aside-list > .aside-list-item .content > .title{
+    color:white;
+}
+
+#aside-content .item-headline span{
+    color:white;
+}
+
+#aside-content .aside-list > .aside-list-item .content > time{
+    color:white;
+}
+
+.fa-clock-rotate-left:before, .fa-history:before{
+    color:white;
+}
+
+#aside-content .card-info .author-info__name{
+    font: bold;
+}
+
+#nav .site-page{
+    font-size: larger;
+}
